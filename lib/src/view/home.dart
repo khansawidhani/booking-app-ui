@@ -113,9 +113,9 @@ class _HomeScreenState extends State<HomeScreen> {
                   IconCard(iconData: Icons.flight, text: 'Flights')
                 ],
               ),
-              SizedBox(
-                height: 20,
-              ),
+              // SizedBox(
+              //   height: 20,
+              // ),
               Padding(
                 padding: const EdgeInsets.symmetric(horizontal: 8.0),
                 child: Row(

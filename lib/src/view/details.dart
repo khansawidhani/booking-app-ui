@@ -26,7 +26,7 @@ class DetailsScreen extends StatelessWidget {
           SliverAppBar(
             pinned: true,
             expandedHeight: 250.0,
-            collapsedHeight: 100.0,
+            // collapsedHeight: 100.0,
             actions: [
               
             ],
